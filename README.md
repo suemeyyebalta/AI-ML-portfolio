@@ -22,14 +22,17 @@ My goal is to combine engineering expertise with intelligent, data-driven soluti
 
 ## Technical Skills
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Google Colab
-- GitHub
+- Programming: Python
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
+- Development Tools: Google Colab, Jupyter Notebook, GitHub
+
+## Technologies in Progress
+
+- Advanced Machine Learning: XGBoost
+- Deep Learning: TensorFlow, Keras
+- Natural Language Processing: NLTK
 
 ## Areas of Development
 
