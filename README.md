@@ -4,21 +4,9 @@
 
 Mechanical Engineer with professional experience in automotive software quality, software development and process optimization.
 
-Currently expanding my expertise in Artificial Intelligence, Machine Learning, Deep Learning and Data Science through practical Python projects.
+Currently expanding my expertise in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Agentic AI and Business Process Automation through practical Python projects.
 
-My goal is to combine engineering expertise with intelligent, data-driven solutions.
-
-## Project Portfolio
-
-### 01 – Business Profit Prediction
-- Method: Linear Regression
-- Objective: Predict business profits based on the number of stores.
-- Focus: Data analysis, visualization and predictive modeling.
-
-### 02 – Customer Purchase Prediction
-- Method: Classification
-- Objective: Predict customer purchasing decisions based on time spent.
-- Focus: Customer behavior analysis and classification modeling.
+My goal is to combine engineering expertise with intelligent, data-driven solutions and AI-powered automation for business processes.
 
 ## Technical Skills
 
@@ -30,9 +18,20 @@ My goal is to combine engineering expertise with intelligent, data-driven soluti
 
 ## Technologies in Progress
 
-- Advanced Machine Learning: XGBoost
-- Deep Learning: TensorFlow, Keras
-- Natural Language Processing: NLTK
+Advanced Machine Learning: Random Forest, XGBoost, SVM, KNN, Clustering, Time Series Forecasting
+Data Science: Data Preprocessing, Data Pipelines, Feature Engineering
+Model Optimization & Evaluation: Cross-Validation, Hyperparameter Tuning, Performance Metrics
+Deep Learning Fundamentals: TensorFlow, Keras, Neural Networks
+Natural Language Processing (NLP): NLTK, Tokenization, Lemmatization
+Generative AI: Large Language Models (LLMs), Prompt Engineering
+Agentic AI: LangChain, LangGraph, CrewAI, AutoGen
+Business Process Automation: Flowise, Make
+AI Integration: APIs, Function Calling, Custom Tools
+Retrieval-Augmented Generation (RAG): Vector Databases, Embeddings, LlamaIndex, LlamaParse
+Local AI: Ollama, Llama
+Development Tools: VS Code, Git, Node.js
+AI Quality & Security: AI Safety, Data Privacy, Prompt Injection
+
 
 ## Areas of Development
 
@@ -45,4 +44,4 @@ My goal is to combine engineering expertise with intelligent, data-driven soluti
 
 ## Project Background
 
-This portfolio includes course-based projects and will be continuously expanded with independent projects and practical engineering applications.
+This portfolio includes hands-on projects in Data Science, Machine Learning, Agentic AI and Business Process Automation. It will be continuously expanded with independent projects, intelligent automation solutions and practical engineering applications.
