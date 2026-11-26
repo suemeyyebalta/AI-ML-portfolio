@@ -1,4 +1,4 @@
-### 01 Stock Market Return Calculator
+### 01-Stock Market Return Calculator
 
 #### Project Description
 
@@ -7,8 +7,8 @@ Python-based calculator that projects investment growth after 1, 2 and 3 years, 
 #### Skills Applied
 
 Python, User Input, Data Type Conversion, Arithmetic Operations, Compound Interest Calculation.
-
-### 02 Automated Invitation Generation
+----------------------------------------------------------------------
+### 02-Automated Invitation Generation
 
 #### Project Description
 
