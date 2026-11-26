@@ -12,36 +12,44 @@ My goal is to combine engineering expertise with software development, data-driv
 
 ## Technical Skills
 
-    Python Development & Process Automation
-    Programming: Python, C++, Excel VBA
-    Process Automation: Python-based Automation, PDF Data Extraction, Automated Data Processing, PDF to Excel Automation, Automated Jira     Ticket Creation
+Python Development & Process Automation
+
+    Programming: Python, C++, Excel VBA, Object-Oriented Programming (OOP), Regular Expressions (Regex)
+    Process Automation: Python-based Automation, Automated Data Processing, File & Folder Automation, Email Automation, Automated Jira       Ticket Creation
+    Document & Office Automation: PDF Data Extraction, PDF to Excel Automation, Excel, Word, PowerPoint, Automated Reporting
+    Web Automation: Web Scraping, Browser Automation (Selenium)
+    Application Development: Tkinter, PyInstaller
+    Task Scheduling: Cron Jobs
+    Media Processing: Image & Video Processing
     Data Analysis: Pandas, NumPy, Data Preprocessing, Technical Data Analysis
     Data Visualization & Reporting: Matplotlib, Seaborn, Tableau, KPI Reporting
     Machine Learning: Scikit-learn, Linear Regression, Multiple Regression, Classification Fundamentals, Model Training & Prediction
     Development Tools: Google Colab, Jupyter Notebook, GitHub
-    
 
 ## Technologies & Skills in Progress
-
-Object-Oriented Programming (OOP), Regular Expressions (Regex), Web Scraping, Document & Office Automation, Tkinter, PyInstaller, Cron Jobs
+Technologies & Skills in Progress
 
 AI & Intelligent Workflow Automation
 
 AI Agents, Agentic AI, n8n, OpenAI API, LLM APIs, Function Calling, Webhooks, Prompt Engineering, Ollama, Flowise, JavaScript Basics, Node.js, Google Sheets, Airtable
 
+AI Frameworks & Automation Technologies
+
+LangChain, LangGraph, Make, Zapier
+
 Retrieval-Augmented Generation (RAG)
 
 Vector Databases, Embeddings, LlamaIndex, LlamaParse, Firecrawl
 
-Additional Automation Technologies – Fundamentals
+Databases & Data Management
 
-LangChain, LangGraph, Make, Zapier
+SQL, Relational Databases
 
-Advanced Machine Learning
+Machine Learning
 
 Polynomial Regression, Random Forest, Decision Trees, XGBoost, SVM, KNN, Naive Bayes, Clustering, Time Series Forecasting, Feature Engineering, Cross-Validation, Hyperparameter Optimization
 
-Deep Learning
+Deep Learning Fundamentals
 
 TensorFlow, Keras, Artificial Neural Networks
 
@@ -52,28 +60,6 @@ NLTK, Tokenization, Lemmatization, Text Analysis
 AI Security & Data Privacy
 
 Prompt Injection, Data Poisoning, AI Safety, GDPR, EU AI Act
-
-## Areas of Development
-
-Planned projects:
-
-* Automated Report Generation
-* PDF to Excel Automation
-* Automated Invoice Data Extraction
-* Automated Document Processing
-* Automated KPI Reporting
-* Desktop Automation Tools
-* AI-Powered Email Assistant
-* RAG-Based Document Assistant
-* AI Agents for Business Process Automation
-
-02 – Data Science & Machine Learning
-
-* Business Profit Prediction
-* Customer Purchase Prediction
-* Polynomial Regression (in progress)
-
-More projects coming soon.
 
 ## Project Background
 
