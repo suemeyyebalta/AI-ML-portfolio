@@ -1,6 +1,6 @@
 # Stock Market Return Calculator
 
-# Project Description
+#Project Description
 Python-based calculator that projects investment growth after 1, 2 and 3 years, assuming an annual return of 8%.
 
 # Skills Applied
