@@ -19,4 +19,13 @@ Development of a Python-based automation tool that reads a guest list of 100 rec
 
 Python, Lists, For Loops, String Processing, F-Strings, Context Managers, File Reading & Writing, UTF-8 Encoding, OS Module, File Path Management, Automated File Generation, Document Automation.
 
+------------
+### 03 – Automated File & Folder Organization
 
+#### Project Description
+
+Development of a Python-based automation tool that organizes files by their extensions, automatically creates corresponding subfolders, and moves files into the appropriate directories.
+
+#### Skills Applied
+
+Python, OS Module, Shutil Module, Directory Management, File Extension Detection, Conditional Statements, Automated File Sorting, File & Folder Automation.
