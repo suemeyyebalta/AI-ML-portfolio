@@ -2,11 +2,11 @@
 
 #### Project Description
 
-Python-based calculator that projects investment growth after 1, 2 and 3 years, assuming an annual return of 8%.
+Python-based calculator that automatically projects investment growth based on user-defines initial capital, annual return rate, and investment period. The tool calculates and displays the annual portfolio value using compound interest.
 
 #### Skills Applied
 
-Python, User Input, Data Type Conversion, Arithmetic Operations, Compound Interest Calculation.
+Python, User Input, Data Type Conversion, Arithmetic Operations, For Loops, Range Function, F-Strings, Output Formatting, Compound Interest Calculation.
 
 ----------------------------------------------------------------------
 ### 02-Automated Invitation Generation
