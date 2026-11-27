@@ -24,8 +24,8 @@ Python, Lists, For Loops, String Processing, F-Strings, Context Managers, File R
 
 #### Project Description
 
-Development of a Python-based automation tool that organizes files by their extensions, automatically creates corresponding subfolders, and moves files into the appropriate directories.
+Development of a Python-based automation tool that dynamically detects existing directories, automatically creates corresponding subfolders, and classifies files by their extensions. Files are automatically organized into Images, Documents, and Others across multiple directories without manual intervention.
 
 #### Skills Applied
 
-Python, OS Module, Shutil Module, Directory Management, File Extension Detection, Conditional Statements, Automated File Sorting, File & Folder Automation.
+Python, OS Module, Shutil Module, Directory Management, File Path Management, Nested For Loops, Conditional Statements, String Processing, File Extension Detection, Automated Directory Creation, File Classification, Automated File Sorting, File & Folder Automation.
