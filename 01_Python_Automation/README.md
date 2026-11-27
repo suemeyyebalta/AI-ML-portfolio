@@ -13,7 +13,7 @@ Python, User Input, Data Type Conversion, Arithmetic Operations, For Loops, Rang
 
 #### Project Description
 
-Development of a Python-based automation tool that reads a guest list of 100 recipients, generates personalized invitations, and saves each invitation as an individual text file in a designated folder.
+Development of a Python-based automation tool that reads a guest list of 20 recipients, generates personalized invitations for an annual company event, and automatically saves each invitation as an individual text file in a designated output folder.
 
 #### Skills Applied
 
